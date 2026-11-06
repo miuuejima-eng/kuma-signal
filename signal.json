@@ -1,5 +1,5 @@
 {
   "to_robo": 7,
-  "to_kuma": 8,
+  "to_kuma": 9,
   "note": "Wake-up counters only. Real payloads live in Google Drive (Robo-Kuma Renkei folders). Kuma increments to_robo when a new instruction is placed; Robo-Kuma increments to_kuma when a new report is placed."
 }
